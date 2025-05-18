@@ -1,0 +1,22 @@
+:root {
+  --color-primary: #E07B39;        /* Existing - Warm Orange */
+  --color-accent-1: #E6E18F;      /* Existing - Pale Yellow */
+  --color-accent-2: #FEFCAD;      /* Existing - Light Yellow */
+  --color-dark: #242325;         /* Existing - Very Dark Gray */
+  --color-light: #FAFAF8;        /* Existing - Very Light Gray */
+
+  /* Complementary */
+  --color-complementary: #399EE0;  /* Medium Blue */
+
+  /* Analogous to Primary */
+  --color-analogous-1: #D65A31;    /* Red-Orange */
+  --color-analogous-2: #F0A74A;    /* Yellow-Orange */
+
+  /* Analogous to Accents */
+  --color-analogous-accent: #D2E68F; /* Green-Yellow */
+
+  /* Triadic / Split-Complementary */
+  --color-tertiary-1: #7B39E0;     /* Blue-Violet */
+  --color-tertiary-2: #39E07B;     /* Medium Green */
+  --color-tertiary-3: #39C4E0;     /* Teal (Blue-Green) */
+}
